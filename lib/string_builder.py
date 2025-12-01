@@ -1,6 +1,6 @@
 class StringBuilder():
     def __init__(self):
-        self.str = ''
+        self.str = ""
     def add(self, str):
         self.str += str
     def size(self):
